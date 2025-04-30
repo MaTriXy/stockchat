@@ -1,6 +1,6 @@
 # StockChat: DSPy-powered Stock Analysis Agent (OpenAI, DeepSeek, Gemini, GitHub)
 
-[![X URL](https://img.shields.io/twitter/url/https/x.com/doc_editor_saas.svg?style=social&label=Follow%20%40doc_editor_saas)](https://x.com/doc_editor_saas)
+[![X URL](https://img.shields.io/twitter/url/https/x.com/firstoryapp.svg?style=social&label=Follow%20%40firstoryapp)](https://x.com/firstoryapp)
 
 **An open-source alternative to Perplexity Finance.**
 
